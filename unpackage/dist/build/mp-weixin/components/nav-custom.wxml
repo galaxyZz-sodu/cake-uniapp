@@ -1,0 +1,1 @@
+<view><view class="cu-bar bg-white"><view class="action"><text class="cuIcon-locationfill text-gray"></text>北京</view><view class="content text-bold">MCAKE</view><view class="action text-grey"><text class="cuIcon-search"></text><text class="line">|</text><text data-event-opts="{{[['tap',[['goCake',['$event']]]]]}}" class="cuIcon-sort" bindtap="__e"></text></view></view></view>

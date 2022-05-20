@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-overlay": "/uni_modules/uview-ui/components/u-overlay/u-overlay",
+    "u-number-box": "/uni_modules/uview-ui/components/u-number-box/u-number-box"
+  }
+}

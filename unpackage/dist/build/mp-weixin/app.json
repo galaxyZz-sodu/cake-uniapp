@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/user/login",
+    "pages/user/registration",
+    "pages/user/forget-password",
+    "pages/cake/cake",
+    "pages/my/my",
+    "pages/detail/detail",
+    "pages/home/banner-active/banner-active",
+    "pages/collect-data/collect-data",
+    "pages/cart/cart",
+    "pages/order/order",
+    "pages/address/address",
+    "pages/address/address-detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "good-item": "/components/good-item",
+    "home-title": "/components/home-title",
+    "my-comp": "/components/test-my",
+    "nav-custom": "/components/nav-custom"
+  }
+}

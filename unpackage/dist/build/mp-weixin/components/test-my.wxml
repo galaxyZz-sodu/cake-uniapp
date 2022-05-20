@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handlerNum',['$event']]]]]}}" bindtap="__e">{{'测试公共组件\n\t'+name+''}}</view>
